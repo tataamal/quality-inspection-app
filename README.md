@@ -87,5 +87,3 @@ docs/
 
 > 📘 For detailed inspection architecture, see [`docs/architecture.md`](docs/architecture.md)
 > 🧾 For API request/response schema, see [`docs/api-flask.md`](docs/api-flask.md)
-
->>>>>>> main
